@@ -5,6 +5,14 @@ void userdefineSwap(int &a, int &b){
     a = b;
     b = temp;
 }
+// a function can swap using mathmatics using opertor + and -.
+void SwapUsingMathmatics(){
+
+}
+// a function can swap using xor biwise operator.
+void SwapUsingXor(){
+
+}
 void reverseArray(int arr[],int size){
     int i = 0;
     int j = size - 1;
