@@ -1,1 +1,4 @@
-Link to pratice:- https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/318446/offering/4414010
+
+This link to see our pratice mcqs:- https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/318446/mcqs/4414010
+
+*/
