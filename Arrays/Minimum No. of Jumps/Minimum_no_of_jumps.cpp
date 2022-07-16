@@ -32,11 +32,14 @@ You don't need to read input or print anything. Your task is to complete functio
 Expected Time Complexity: O(N)
 Expected Space Complexity: O(1)
 
-
+1, 3, 6, 3, 2,
+                  3, 6, 8, 9, 5 
 Constraints:
 1 ≤ N ≤ 107
 0 ≤ arri ≤ 107
 */
+
+// Brute Force approach
 #include <bits/stdc++.h>
 using namespace std;
 
