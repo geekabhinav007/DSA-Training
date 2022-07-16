@@ -17,7 +17,9 @@ bool search(int arr[][3], int target, int rows, int columns)
 }
 int main()
 {
-    int arr[3][3] = {{1,2,3},{3,4,8}};
+    int arr[3][3] = {{1,2,3},
+                     {3,4,8},
+                     {7,8,9}};
     int find = search(arr,8,3,3); 
     cout<<find<<endl;
     return 0;
