@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// Complexity :- O(n^2)
 
 void spiral(int arr[][4], int rows, int columns)
 {
