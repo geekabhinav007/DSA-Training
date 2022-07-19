@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/abhinav/DSA'
+git add .
+git commit -m "" -m ""
+git push -u origin main
+make: Leaving directory '/home/abhinav/DSA'
+ 
