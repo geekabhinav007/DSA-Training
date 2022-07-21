@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Thu Jul 21 13:06:55 2022
+# Make data base, printed on Fri Jul 22 01:19:55 2022
 
 # Variables
 
@@ -51,7 +51,7 @@ SNAP_DATA = /var/snap/code/102
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
 # environment
-JOURNAL_STREAM = 8:47898
+JOURNAL_STREAM = 8:48838
 # environment
 XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
 # environment
@@ -73,7 +73,7 @@ DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
 # environment
 _ = /snap/code/102/usr/share/code/code
 # environment
-MANAGERPID = 1893
+MANAGERPID = 1832
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
 # environment
@@ -87,7 +87,7 @@ PATH = /home/abhinav/.local/bin:/home/abhinav/.nvm/versions/node/v14.18.1/bin:/h
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
-SESSION_MANAGER = local/Abhinav-Ubuntu:@/tmp/.ICE-unix/2108,unix/Abhinav-Ubuntu:/tmp/.ICE-unix/2108
+SESSION_MANAGER = local/Abhinav-Ubuntu:@/tmp/.ICE-unix/2053,unix/Abhinav-Ubuntu:/tmp/.ICE-unix/2053
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
@@ -105,7 +105,7 @@ DISABLE_WAYLAND = 1
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-INVOCATION_ID = 71f3b775e0804fe59ebfde3066f33692
+INVOCATION_ID = 424bac32d0f44aa6a28804719ca4b9ca
 # environment
 GDK_PIXBUF_MODULEDIR = /snap/code/102/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
 # default
@@ -117,7 +117,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 6707
+GIO_LAUNCHED_DESKTOP_FILE_PID = 15354
 # automatic
 %F = $(notdir $%)
 # environment
@@ -129,7 +129,7 @@ PWD = /home/abhinav/DSA
 # default
 .LOADED := 
 # environment
-SSH_AGENT_PID = 2070
+SSH_AGENT_PID = 2015
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # environment
@@ -251,7 +251,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 6757
+VSCODE_PID = 15401
 # variable set hash-table stats:
 # Load=120/1024=12%, Rehash=0, Collisions=17/145=12%
 
@@ -261,9 +261,9 @@ VSCODE_PID = 6757
 
 # Directories
 
-# . (device 2053, inode 791109): 13 files, no impossibilities.
+# . (device 2053, inode 791109): 14 files, no impossibilities.
 
-# 13 files, no impossibilities in 1 directories.
+# 14 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -290,13 +290,13 @@ git:
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
- 
 #  Last modified 2022-07-12 22:42:11.50590946
 #  File has been updated.
 #  Successfully updated.
 
 # Not a target:
 .DEFAULT:
+ 
 #  Implicit rule search has not been done.
 #  Modification time never checked.
 #  File has not been updated.
@@ -309,12 +309,12 @@ makefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / strings = 19 / storage = 180 B / avg = 9 B
-# current buf: size = 8162 B / used = 180 B / count = 19 / avg = 9 B
+# strcache buffers: 1 (0) / strings = 20 / storage = 189 B / avg = 9 B
+# current buf: size = 8162 B / used = 189 B / count = 20 / avg = 9 B
 
-# strcache performance: lookups = 24 / hit rate = 20%
+# strcache performance: lookups = 25 / hit rate = 20%
 # hash-table stats:
-# Load=19/8192=0%, Rehash=0, Collisions=1/24=4%
-# Finished Make data base on Thu Jul 21 13:06:55 2022
+# Load=20/8192=0%, Rehash=0, Collisions=1/25=4%
+# Finished Make data base on Fri Jul 22 01:19:55 2022
 
  
