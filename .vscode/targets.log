@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Wed Jul 20 00:30:29 2022
+# Make data base, printed on Thu Jul 21 13:06:55 2022
 
 # Variables
 
@@ -47,11 +47,11 @@ CURDIR := /home/abhinav/DSA
 # makefile
 SHELL = /bin/sh
 # environment
-SNAP_DATA = /var/snap/code/101
+SNAP_DATA = /var/snap/code/102
 # environment
 VSCODE_NLS_CONFIG = {"locale":"en-gb","availableLanguages":{},"_languagePackSupport":true}
 # environment
-JOURNAL_STREAM = 8:49141
+JOURNAL_STREAM = 8:47898
 # environment
 XDG_CONFIG_DIRS = /etc/xdg/xdg-ubuntu:/etc/xdg
 # environment
@@ -71,15 +71,15 @@ XDG_DATA_DIRS = /usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/d
 # environment
 DBUS_SESSION_BUS_ADDRESS = unix:path=/run/user/1000/bus
 # environment
-_ = /snap/code/101/usr/share/code/code
+_ = /snap/code/102/usr/share/code/code
 # environment
-MANAGERPID = 2089
+MANAGERPID = 1893
 # environment
 LESSOPEN = | /usr/bin/lesspipe %s
 # environment
 VSCODE_CWD = /home/abhinav
 # environment
-GSETTINGS_SCHEMA_DIR = /snap/code/101/usr/share/glib-2.0/schemas
+GSETTINGS_SCHEMA_DIR = /snap/code/102/usr/share/glib-2.0/schemas
 # default
 MAKE_HOST := x86_64-pc-linux-gnu
 # environment
@@ -87,17 +87,17 @@ PATH = /home/abhinav/.local/bin:/home/abhinav/.nvm/versions/node/v14.18.1/bin:/h
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
-SESSION_MANAGER = local/Abhinav-Ubuntu:@/tmp/.ICE-unix/2314,unix/Abhinav-Ubuntu:/tmp/.ICE-unix/2314
+SESSION_MANAGER = local/Abhinav-Ubuntu:@/tmp/.ICE-unix/2108,unix/Abhinav-Ubuntu:/tmp/.ICE-unix/2108
 # environment
 XDG_RUNTIME_DIR = /run/user/1000
 # environment
 GDK_PIXBUF_MODULE_FILE = /home/abhinav/snap/code/common/.cache/gdk-pixbuf-loaders.cache
 # environment
-SNAP = /snap/code/101
+SNAP = /snap/code/102
 # environment
 NVM_BIN = /home/abhinav/.nvm/versions/node/v14.18.1/bin
 # environment
-SNAP_VERSION = b06ae3b2
+SNAP_VERSION = 3b889b09
 # environment
 XDG_MENU_PREFIX = gnome-
 # environment
@@ -105,9 +105,9 @@ DISABLE_WAYLAND = 1
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-INVOCATION_ID = 806caf43678843fab67cb56711dd6113
+INVOCATION_ID = 71f3b775e0804fe59ebfde3066f33692
 # environment
-GDK_PIXBUF_MODULEDIR = /snap/code/101/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
+GDK_PIXBUF_MODULEDIR = /snap/code/102/usr/lib/x86_64-linux-gnu/gdk-pixbuf-2.0/2.10.0/loaders
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -117,7 +117,7 @@ XDG_SESSION_DESKTOP = ubuntu
 # environment
 SSH_AUTH_SOCK = /run/user/1000/keyring/ssh
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 9176
+GIO_LAUNCHED_DESKTOP_FILE_PID = 6707
 # automatic
 %F = $(notdir $%)
 # environment
@@ -129,7 +129,7 @@ PWD = /home/abhinav/DSA
 # default
 .LOADED := 
 # environment
-SSH_AGENT_PID = 2276
+SSH_AGENT_PID = 2070
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = ubuntu:GNOME
 # environment
@@ -143,11 +143,11 @@ LESSCLOSE = /usr/bin/lesspipe %s %s
 # environment
 VSCODE_CLI = 1
 # environment
-VSCODE_CODE_CACHE_PATH = /home/abhinav/.config/Code/CachedData/b06ae3b2d2dbfe28bca3134cc6be65935cdfea6a
+VSCODE_CODE_CACHE_PATH = /home/abhinav/.config/Code/CachedData/3b889b090b5ad5793f524b5d1d39fda662b96a2a
 # environment
 LOGNAME = abhinav
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 SNAP_LIBRARY_PATH = /var/lib/snapd/lib/gl:/var/lib/snapd/lib/gl32:/var/lib/snapd/void
 # environment
@@ -175,7 +175,7 @@ MAKECMDGOALS := all
 # environment
 QT_IM_MODULE = ibus
 # environment
-SNAP_USER_DATA = /home/abhinav/snap/code/101
+SNAP_USER_DATA = /home/abhinav/snap/code/102
 # environment
 SHLVL = 0
 # environment
@@ -185,7 +185,7 @@ MAKE_VERSION := 4.2.1
 # environment
 USER = abhinav
 # environment
-SNAP_REVISION = 101
+SNAP_REVISION = 102
 # makefile
 .DEFAULT_GOAL := git
 # environment
@@ -201,7 +201,7 @@ MAKE_COMMAND := make
 # environment
 LANGUAGE = en_IN:en
 # environment
-VSCODE_IPC_HOOK = /run/user/1000/vscode-6b3c1525-1.69.1-main.sock
+VSCODE_IPC_HOOK = /run/user/1000/vscode-6b3c1525-1.69.2-main.sock
 # environment
 BAMF_DESKTOP_FILE_HINT = /var/lib/snapd/desktop/applications/code_code.desktop
 # makefile
@@ -251,7 +251,7 @@ GJS_DEBUG_OUTPUT = stderr
 # environment
 LANG = C
 # environment
-VSCODE_PID = 9243
+VSCODE_PID = 6757
 # variable set hash-table stats:
 # Load=120/1024=12%, Rehash=0, Collisions=17/145=12%
 
@@ -290,6 +290,7 @@ git:
 # Not a target:
 makefile:
 #  Implicit rule search has been done.
+ 
 #  Last modified 2022-07-12 22:42:11.50590946
 #  File has been updated.
 #  Successfully updated.
@@ -298,7 +299,6 @@ makefile:
 .DEFAULT:
 #  Implicit rule search has not been done.
 #  Modification time never checked.
- 
 #  File has not been updated.
 
 # files hash-table stats:
@@ -315,6 +315,6 @@ makefile:
 # strcache performance: lookups = 24 / hit rate = 20%
 # hash-table stats:
 # Load=19/8192=0%, Rehash=0, Collisions=1/24=4%
-# Finished Make data base on Wed Jul 20 00:30:29 2022
+# Finished Make data base on Thu Jul 21 13:06:55 2022
 
  
